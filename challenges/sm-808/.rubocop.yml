@@ -1,0 +1,9 @@
+# These are my preferred style linters
+LineLength:
+  Max: 120
+
+StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
