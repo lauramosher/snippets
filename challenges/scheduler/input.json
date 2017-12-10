@@ -1,0 +1,4 @@
+{"command": ["./cmd", "-r", "0", "-w", "500"], "timeout": 1000}
+{"command": ["./cmd", "-r", "3", "-w", "50"], "timeout": 100}
+{"command": ["./cmd", "-r", "5", "-w", "50"], "timeout": 100}
+{"command": ["./cmd", "-w", "200"], "timeout": 50}
